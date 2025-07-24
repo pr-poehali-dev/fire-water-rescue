@@ -18,7 +18,7 @@ const Index = () => {
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Button size="lg" className="bg-white text-vibrant-orange hover:bg-gray-100 font-semibold">
-                  Начать сейчас
+                  Получи рецепт для роста продаж
                 </Button>
                 <Button variant="outline" size="lg" className="border-white text-white hover:bg-white hover:text-vibrant-orange">
                   Узнать больше
