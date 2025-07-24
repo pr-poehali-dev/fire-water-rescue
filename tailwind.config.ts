@@ -62,8 +62,9 @@ export default {
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
 				},
-				'vibrant-orange': '#FF6B35',
-				'teal': '#4ECDC4',
+				'fire-orange': '#FF6B35',
+				'money-green': '#2ECC71',
+				'drama-red': '#C0392B',
 				'dark-navy': '#2C3E50'
 			},
 			borderRadius: {
